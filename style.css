@@ -1,0 +1,31 @@
+div {
+	
+	background: rgba(110, 110, 110, 0.4);	
+	padding: 5 20;
+	margin: 20px;
+	width: 550px;
+	height: 70px;	
+}
+#div2 {
+	opacity: 0.4;
+	pointer-events: none;
+}
+#div3 {
+	opacity: 0.4;
+	pointer-events: none;
+	height: 42px;
+}
+p {	
+	display: inline-block;
+	margin-right: 10px;
+}
+button {
+	margin: 10px;
+}
+#result {
+	height: 160px;	
+}
+#result p {
+	display: inline-block;
+	float: left;
+}
